@@ -56,7 +56,7 @@ export default function CurrencyAgencyLandingPage() {
       <header className="sticky top-0 z-50 backdrop-blur-xl border-b border-white/10 bg-black/40">
         <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
           <h1 className="text-3xl font-black">
-            docs<span className="text-cyan-400">wellete</span>
+            docs<span className="text-cyan-400">wellate</span>
           </h1>
 
           <nav className="hidden md:flex items-center gap-8 text-sm text-gray-300">
